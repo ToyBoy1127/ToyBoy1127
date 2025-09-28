@@ -10,8 +10,7 @@
 - 🧑‍💻 Passionate about **scalable full-stack solutions** and **modern UI/UX**  
 - 🔭 Currently working on: **Critical, high-performance web apps**  
 - 📫 Reach me at: **[eugene001127@outlook.com](mailto:eugene001127@outlook.com)**  
-- 🌐 Portfolio: [github.com/EugeneChen1127](https://github.com/EugeneChen1127)  
-
+- 🌐 Portfolio: [github.com/EugeneChen1127](https://eugenechon1127.github.io)
 ---
 
 ## 🚀 Tech Stack
