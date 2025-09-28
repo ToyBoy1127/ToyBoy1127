@@ -18,7 +18,7 @@
 - 🧑‍💻 7+ years of experience in **Frontend + Backend** engineering  
 - 🏗️ Specialized in **critical, complex web apps** with real-world business impact  
 - 📫 Reach me at **[eugene001127@outlook.com](mailto:eugene001127@outlook.com)**  
-- 🌐 Portfolio → [github.com/EugeneChen1127](https://github.com/EugeneChen1127)  
+- 🌐 Portfolio → [github.com/EugeneChen1127](https://eugenechen1127.github.io/)
 
 ---
 
