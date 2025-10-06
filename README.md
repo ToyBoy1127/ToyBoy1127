@@ -14,11 +14,11 @@
 ---
 
 ## 🔥 About Me
-- 🌍 Based in **San Francisco, United States**  
+- 🌍 Based in **San Francisco, CA**  
 - 🧑‍💻 7+ years of experience in **Frontend + Backend** engineering  
 - 🏗️ Specialized in **critical, complex web apps** with real-world business impact  
 - 📫 Reach me at **[eugene001127@outlook.com](mailto:smilechen1127@gmail.com)**  
-- 🌐 Portfolio → [github.com/EugeneChen1127](https://eugenechen1127.github.io/)
+- 🌐 Portfolio → [EugeneChen1127.github.io](https://eugenechen1127.github.io/)
 
 ---
 
