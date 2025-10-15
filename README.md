@@ -1,11 +1,11 @@
-<!-- Unique Profile README for Eugene Chen -->
+<!-- Unique Profile README for Toy Boy -->
 
 <div align="center">
 
-# 👋 Hey, I'm **Eugene Chen**  
-### 🚀 Senior Full-Stack Engineer | Architect of Scalable Web Solutions  
+# 👋 Hey, I'm **Toy**  
+### 🚀 Senior Software-Engineer | Architect of Scalable Web Solutions  
 
-💡 Turning **ideas** into **modern full-stack applications** with clean code, creative UI, and powerful backends.  
+💡 Turning **ideas** into **modern software applications** with clean code, creative UI, and powerful backends.  
 
 ![Coding Animation](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)  
 
@@ -18,11 +18,11 @@
 - 🧑‍💻 7+ years of experience in **Frontend + Backend** engineering  
 - 🏗️ Specialized in **critical, complex web apps** with real-world business impact  
 - 📫 Reach me at **[eugene001127@outlook.com](mailto:smilechen1127@gmail.com)**  
-- 🌐 Portfolio → [EugeneChen1127.github.io](https://eugenechen1127.github.io/)
+- 🌐 Portfolio → [toyboy1127.github.io](https://toyboy1127.github.io/)
 
 ---
 
-## 🧰 Tech Arsenal (Full-Stack)
+## 🧰 Tech Arsenal (Software Engineer)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,15 +55,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [⚡ Smart Habit Tracker](https://github.com/EugeneChen1127/smart-habit-tracker)  
+### 🔹 [⚡ Smart Habit Tracker](https://github.com/ToyBoy1127/smart-habit-tracker)  
 Track & visualize habits with reminders + analytics.  
 *Stack: React, Node.js, MongoDB*  
 
-### 🔹 [🌐 DeFi Dashboard](https://github.com/EugeneChen1127/defi-dashboard)  
+### 🔹 [🌐 DeFi Dashboard](https://github.com/ToyBoy1127/defi-dashboard)  
 Monitor decentralized finance in real time.  
 *Stack: Vue.js, Express, PostgreSQL*  
 
-### 🔹 [💼 Portfolio Website](https://github.com/EugeneChen1127/portfolio)  
+### 🔹 [💼 Portfolio Website](https://github.com/ToyBoy1127/portfolio)  
 Modern personal portfolio showcasing projects + resume.  
 *Stack: HTML, CSS, Bootstrap, JS*  
 
@@ -93,8 +93,8 @@ Modern personal portfolio showcasing projects + resume.
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:eugene001127@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eugene-chen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/EugeneChen1127"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ToyBoy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ToyBoy1127"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -103,6 +103,6 @@ Modern personal portfolio showcasing projects + resume.
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=EugeneChen1127&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=ToyBoy1127&color=brightgreen)
 
 </div>
