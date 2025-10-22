@@ -1,70 +1,62 @@
-# 👋 Hi, I'm Julian  
+# 👋 Hey there, I’m Julian
 
-🚀 **Full Stack Developer | Tech Explorer | Problem Solver**
-
-I'm passionate about crafting scalable web applications and building meaningful digital experiences.  
-With expertise spanning both **frontend** and **backend**, I love turning complex ideas into clean, efficient, and user-friendly solutions.
+💻 **Full-Stack Developer | System Designer | Cloud Enthusiast**  
+Crafting performant digital systems that feel effortless for users and powerful for developers.
 
 ---
 
-## 🧠 About Me
-- 💼 Currently working on personal SaaS and open-source projects  
-- 🌱 Learning more about **AI integration**, **Next.js**, and **DevOps**  
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**, **Python**, or **API design**  
-- 🎯 Goal: Contribute to open source & help others build better software  
-- ⚡ Fun fact: I code with lo-fi beats and coffee ☕  
+### 🧭 My Vision
+I believe great software is like a symphony — elegant structure beneath a seamless surface.  
+I focus on building **scalable, reliable, and intuitive systems** that connect people and technology.
 
 ---
 
-## 🧰 Tech Stack
+### ⚙️ Core Stack
 
-### 💻 Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+#### 🌐 Frontend
+React • Next.js • TypeScript • Redux • Tailwind CSS • Cypress
 
-### 🗄️ Databases & Cloud  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+#### 🧩 Backend
+Node.js • Express • NestJS • GraphQL • REST APIs • WebSockets
 
-### ⚙️ Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+#### 🗄️ Databases
+PostgreSQL • MongoDB • MySQL • Redis • DynamoDB • Elasticsearch
+
+#### ☁️ DevOps & Cloud
+AWS • Docker • Kubernetes • Terraform • CI/CD Pipelines • Nginx
+
+#### 📊 Architecture
+Microservices • Event-Driven Design • API Security • Distributed Systems • Observability (Prometheus + Grafana)
 
 ---
 
-## 📈 GitHub Stats
-
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julian&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Julian&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🧩 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [🌐 DevConnect](https://github.com/Julian/devconnect) | A social network for developers to share projects and collaborate | React, Node.js, MongoDB |
-| [📦 TaskFlow](https://github.com/Julian/taskflow) | Task management web app with drag-and-drop UI | Next.js, TypeScript, PostgreSQL |
-| [🧠 AI Assistant](https://github.com/Julian/ai-assistant) | Chat-based productivity tool using OpenAI API | Python, FastAPI, React |
+### 🛠️ I Enjoy Working On
+- Building **real-time apps** with intelligent data pipelines  
+- Designing **microservice systems** that scale gracefully  
+- Creating **developer-friendly APIs** and clean architectural foundations  
+- Experimenting with **AI-powered backend automation**
 
 ---
 
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/julian)
-[![Twitter](https://img.shields.io/badge/Twitter-@JulianDev-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/JulianDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-julian.dev-000?style=for-the-badge&logo=firefox)](https://julian.dev)
-[![Email](https://img.shields.io/badge/Email-julian%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:julian@gmail.com)
+### 🧠 Currently Exploring
+- 🤖 **AI + Web Integration** (OpenAI, LangChain)  
+- 🏗️ **Edge Functions & Serverless** deployment models  
+- 📦 **Next-Gen DevOps Automation** with GitHub Actions & Terraform  
 
 ---
 
-⭐️ *"Code. Learn. Share. Repeat."*
+### 📈 GitHub Stats
+![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToyBoy1127&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToyBoy1127&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ToyBoy1127&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 🌍 Let’s Connect
+[![GitHub](https://img.shields.io/badge/GitHub-ToyBoy1127-181717?style=for-the-badge&logo=github)](https://github.com/ToyBoy1127)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Scott-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/julian)
+[![Email](https://img.shields.io/badge/Email-smilechen1127%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:smilechen1127@gmail.com)
+
+---
+
+⭐️ *"Good architecture is invisible — until it saves the day."*
