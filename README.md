@@ -60,3 +60,5 @@ Microservices • Event-Driven Design • API Security • Distributed Systems �
 ---
 
 ⭐️ *"Good architecture is invisible — until it saves the day."*
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ToyBoy1127&theme=tokyonight)
