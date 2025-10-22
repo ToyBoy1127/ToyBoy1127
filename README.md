@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Julian
+# 👋 Hey there, I’m a senior Full Stack Developer
 
 💻 **Full-Stack Developer | System Designer | Cloud Enthusiast**  
 Crafting performant digital systems that feel effortless for users and powerful for developers.
