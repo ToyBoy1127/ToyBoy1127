@@ -30,6 +30,10 @@ Microservices • Event-Driven Design • API Security • Distributed Systems �
 
 ---
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=fff)
+
+
 ### 🛠️ I Enjoy Working On
 - Building **real-time apps** with intelligent data pipelines  
 - Designing **microservice systems** that scale gracefully  
