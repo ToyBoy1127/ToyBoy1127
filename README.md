@@ -152,8 +152,8 @@
 
 ---
 ## 📫 Let’s Connect
-- ✉️ Email: tony19960415@gmail.com 
-- 🔗 GitHub: https://github.com/eaglecodes1996
-- 📞 Phone(Whatsapp): +1 (472) 275 6443
-- 💬 Telegram: @tonysony
+- ✉️ Email: toyboy1127@gmail.com 
+- 🔗 GitHub: https://github.com/toyboy1127
+- 📞 Phone(Whatsapp): +1 (725) 242-3760
+- 💬 Telegram: @Gm Trader
 ⭐ *Always open to new challenges and collaboration opportunities.* 
