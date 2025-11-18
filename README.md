@@ -155,5 +155,5 @@
 - ✉️ Email: toyboy1127@gmail.com 
 - 🔗 GitHub: https://github.com/toyboy1127
 - 📞 Phone(Whatsapp): +1 (725) 242-3760
-- 💬 Telegram: @Gm Trader
+- 💬 Telegram: @GmTrader0000
 ⭐ *Always open to new challenges and collaboration opportunities.* 
